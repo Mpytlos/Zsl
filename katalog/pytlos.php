@@ -1,0 +1,3 @@
+<?php
+$nazwisko= 'pytlos';
+ ?>
